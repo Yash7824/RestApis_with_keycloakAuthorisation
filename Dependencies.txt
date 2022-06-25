@@ -1,0 +1,5 @@
+Dependencies to be installed in the maven project:
+1) Spring Data JPA [SQL]
+2) Spring Web
+3) PostgreSQL Driver [SQL]
+4) Lombok [Developer tools]
